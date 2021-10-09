@@ -1,0 +1,35 @@
+body{
+    padding:5px;
+    background-color: dimgray;
+}
+section{
+    text-align: left;
+    background: linear-gradient(to left,  #30f06d 50%, #64d983 50%);
+    padding: 100px;
+    
+}
+#face{
+    border-radius: 30px;
+}
+h1{
+    font-family:Jokerman;
+    letter-spacing: 3;
+    line-height: 1;
+    font-size:60px;
+    font-weight: bold;
+    text-shadow: 2px 3px 3px #216633;
+    
+    }
+p{
+    font-size: 30px;
+    font-family: cursive;
+    letter-spacing: 1;
+    text-shadow: 2px 3px 3px #216633;       }
+h2{
+    font-family:Jokerman;
+    letter-spacing: 3;
+    line-height: 1;
+    font-size:50px;
+    font-weight: bold;
+    text-shadow: 2px 3px 3px #216633;
+}
