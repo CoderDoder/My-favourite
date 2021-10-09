@@ -1,15 +1,16 @@
 body{
     padding:5px;
     background-color: dimgray;
+    text-align: center;
 }
 section{
-    text-align: left;
+    text-align: center;
     background: linear-gradient(to left,  #30f06d 50%, #64d983 50%);
     padding: 100px;
     
 }
 #face{
-    border-radius: 30px;
+    border-radius: 60px;
 }
 h1{
     font-family:Jokerman;
