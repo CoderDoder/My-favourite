@@ -13,12 +13,13 @@ section{
     border-radius: 60px;
 }
 h1{
-    font-family:Jokerman;
+    font-family: ;
     letter-spacing: 3;
     line-height: 1;
     font-size:60px;
-    font-weight: bold;
+    
     text-shadow: 2px 3px 3px #216633;
+    font-family: 'Bungee Inline', cursive;
     
     }
 p{
@@ -27,10 +28,35 @@ p{
     letter-spacing: 1;
     text-shadow: 2px 3px 3px #216633;       }
 h2{
-    font-family:Jokerman;
+    font-family: 'Bungee Inline', cursive;
     letter-spacing: 3;
     line-height: 1;
     font-size:50px;
-    font-weight: bold;
     text-shadow: 2px 3px 3px #216633;
 }
+.menu{
+    list-style:none;
+    font-family: cursive;
+    position:absolute;
+    top:10px;
+    cursor:pointer;
+    right:150px;
+    
+}
+.link{
+    float: left;
+    color: #a83971;
+    font-family: cursive;
+    padding:10px;
+    font-size:30px;
+    word-spacing: 100px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    
+}
+
+.link:hover{
+    font-size: 35px;
+    color:yellow;
+    box-shadow: 4px 5px 4px 3px #f74545;
+    border-radius:20px;
