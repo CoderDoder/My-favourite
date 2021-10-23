@@ -40,7 +40,7 @@ h2{
     position:absolute;
     top:10px;
     cursor:pointer;
-    right:150px;
+    right:300px;
     
 }
 .link{
@@ -49,9 +49,10 @@ h2{
     font-family: cursive;
     padding:10px;
     font-size:30px;
-    word-spacing: 100px;
+    word-spacing: 1000px;
     font-weight: 600;
     letter-spacing: 2px;
+    padding-right: 30px;
     
 }
 
