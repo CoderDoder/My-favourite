@@ -1,63 +1,86 @@
-body{
-    padding:5px;
+html{
+    scroll-behavior: smooth;
+}
+body {
+    padding: 5px;
     background-color: dimgray;
     text-align: center;
 }
-section{
+
+section {
     text-align: center;
-    background: linear-gradient(to left,  #30f06d 50%, #64d983 50%);
+    background: linear-gradient(to left, #30f06d 50%, #64d983 50%);
     padding: 100px;
-    
+
 }
-#face{
+
+#face {
     border-radius: 60px;
 }
-h1{
+
+h1 {
     font-family: ;
     letter-spacing: 3;
     line-height: 1;
-    font-size:60px;
-    
+    font-size: 60px;
+
     text-shadow: 2px 3px 3px #216633;
     font-family: 'Bungee Inline', cursive;
-    
-    }
-p{
+
+}
+
+p {
     font-size: 30px;
     font-family: cursive;
     letter-spacing: 1;
-    text-shadow: 2px 3px 3px #216633;       }
-h2{
+    text-shadow: 2px 3px 3px #216633;
+}
+
+h2 {
     font-family: 'Bungee Inline', cursive;
     letter-spacing: 3;
     line-height: 1;
-    font-size:50px;
+    font-size: 50px;
     text-shadow: 2px 3px 3px #216633;
 }
-.menu{
-    list-style:none;
+
+.menu {
+    list-style: none;
     font-family: cursive;
-    position:absolute;
-    top:10px;
-    cursor:pointer;
-    right:300px;
-    
+    position: absolute;
+    top: 10px;
+    cursor: pointer;
+    right: 300px;
+
 }
-.link{
+
+.link {
     float: left;
     color: #a83971;
     font-family: cursive;
-    padding:10px;
-    font-size:30px;
+    padding: 10px;
+    font-size: 30px;
     word-spacing: 1000px;
     font-weight: 600;
     letter-spacing: 2px;
     padding-right: 30px;
-    
+
 }
 
-.link:hover{
+.link:hover {
     font-size: 35px;
-    color:yellow;
+    color: yellow;
     box-shadow: 4px 5px 4px 3px #f74545;
-    border-radius:20px;
+    border-radius: 20px;
+}
+
+iframe {
+    border-radius: 20px;
+    box-shadow: 4px 5px 9px 2px #f74545;
+}
+h4{
+   font-size: 30px;
+    font-family: cursive;
+    letter-spacing: 1;
+    text-shadow: 2px 3px 3px #216633; 
+}
