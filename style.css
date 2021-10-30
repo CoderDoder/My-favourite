@@ -84,3 +84,23 @@ h4{
     letter-spacing: 1;
     text-shadow: 2px 3px 3px #216633; 
 }
+a{
+    text-decoration: none; 
+    
+}
+#wlink{
+    text-decoration: none; 
+    font-size: 40px;
+    color: black;
+    font-family: cursive;
+    background-image: linear-gradient( to left , #e61212,#d6189d);
+    padding:30px;
+    border-radius:30px;
+    font-weight:bold;
+    box-shadow: 4px 5px 9px 2px #f74545;
+    
+}
+#wlink:hover{
+    font-size: 50px;
+    box-shadow: 4px 5px 4px 3px yellow;
+}
